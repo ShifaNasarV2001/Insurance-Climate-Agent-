@@ -1,0 +1,1011 @@
+{
+  "HIGH": [
+    {
+      "title": "Will Climate Damage Create New Security Risks?",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/mikeosullivan/2025/03/21/will-climate-damage-create-new-security-risks/",
+      "date": "2025-03-21T15:04:17Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.7714285714285715,
+        "details": {
+          "HIGH": 5.4,
+          "MEDIUM": 0.0,
+          "LOW": 1.6
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine",
+        "Energy"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Operational": {
+          "level": "MEDIUM",
+          "matches": 1
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Reputational": {
+          "level": "LOW",
+          "matches": 0
+        }
+      },
+      "preview": "TOPSHOT - A man stands on top of a tree trunk in an area full of damaged trees, mud and debris ... More carried by water following flash floods and landslides in Mai Mahiu, on April 30, 2024. At leas\u2026 [+4995 chars] MoneyHedge Funds & Private EquityWill Climate Damage Create New Security Risks?ByMike..."
+    },
+    {
+      "title": "California at Risk of New Insurance Bailout Amid Fire Danger",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/west/2025/03/25/817064.htm",
+      "date": "2025-03-25T14:21:10Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.6180257510729613,
+        "details": {
+          "HIGH": 14.4,
+          "MEDIUM": 5.6,
+          "LOW": 3.3
+        }
+      },
+      "affected_sectors": [
+        "Marine",
+        "Energy"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 8
+        },
+        "Operational": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Regulatory": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Reputational": {
+          "level": "HIGH",
+          "matches": 3
+        }
+      },
+      "preview": "As Los Angeles-area residents recover from one of the costliest natural disasters in U.S. history, California\u2019s insurer of last resort is careening toward another hot and dry summer with its coffers \u2026 [+7673 chars] Article 0 Comments As Los Angeles-area residents recover from one of the costliest na..."
+    },
+    {
+      "title": "Planet Ooze",
+      "source": "The New York Review of Books",
+      "url": "https://www.nybooks.com/articles/2025/04/10/planet-ooze-the-devils-element-phosphorus-egan/",
+      "date": "2025-03-20T12:00:00Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.6825,
+        "details": {
+          "HIGH": 27.3,
+          "MEDIUM": 8.6,
+          "LOW": 4.1
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Agriculture",
+        "Marine",
+        "Energy"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 5
+        },
+        "Operational": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 2
+        }
+      },
+      "preview": "One million species of plants and animals\u2014one in eight of all known species\u2014are currently at risk of extinction. Air pollution kills eight million people each year, accounting for an eighth of all de\u2026 [+23403 chars] Facebook Twitter Threads Bluesky Mail to Print page Submit a letter: Email us letter..."
+    },
+    {
+      "title": "Skeptical Science New Research for Week #12 2025",
+      "source": "Skepticalscience.com",
+      "url": "https://skepticalscience.com/new_research_2025_12.html",
+      "date": "2025-03-20T06:36:20Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.577433628318584,
+        "details": {
+          "HIGH": 26.1,
+          "MEDIUM": 14.2,
+          "LOW": 4.9
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Agriculture",
+        "Marine",
+        "Energy",
+        "Health"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 5
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 5
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Reputational": {
+          "level": "HIGH",
+          "matches": 3
+        }
+      },
+      "preview": "Posted on 20 March 2025 by Doug Bostrom, Marc Kodack Open access notables The severe 2020 coral bleaching event in the tropical Atlantic linked to marine heatwaves, Rodrigues et al., Communications\u2026 [+41403 chars] Look up a Term Close Panel CLAM Bake Close Clams Climate Science Glossary Term Lookup ..."
+    },
+    {
+      "title": "New Fire Maps Put Nearly 4M Californians in Hazardous Zones",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/west/2025/03/26/817203.htm",
+      "date": "2025-03-26T05:00:59Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.5051020408163265,
+        "details": {
+          "HIGH": 9.9,
+          "MEDIUM": 5.6,
+          "LOW": 4.1
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 2
+        }
+      },
+      "preview": "New bursts of yellow dot the hills of Mendocino County. Smears of burnt orange now span the aqueduct near Bakersfield. A fresh splash of crimson juts east of Chico like a fresh wound. With the rel\u2026 [+10500 chars] Article 0 Comments New bursts of yellow dot the hills of Mendocino County. Smears of bu..."
+    },
+    {
+      "title": "Spotlight: AXA Explores AI-Driven Hurricane Risk Assessment with NVIDIA Earth-2",
+      "source": "Nvidia.com",
+      "url": "https://developer.nvidia.com/blog/spotlight-axa-explores-ai-driven-hurricane-risk-assessment-with-nvidia-earth-2/",
+      "date": "2025-03-25T17:47:10Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.728,
+        "details": {
+          "HIGH": 27.3,
+          "MEDIUM": 8.6,
+          "LOW": 1.6
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Regulatory": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 2
+        }
+      },
+      "preview": "Large ensembles are essential for predicting rare, high-impact events that cannot be fully understood through historical data alone. By simulating thousands of potential scenarios, they provide the s\u2026 [+11431 chars] Related Resources Models / Libraries / Frameworks English\u4e2d\u6587 Spotlight: AXA Explores ..."
+    },
+    {
+      "title": "Natural Disaster Management Market Global Outlook to 2029, with NEC, Hexagon, Nokia, Xylem, ESRI, Everbridge, SuperMap, Sadeem Technology, Lumineye, Nanometrics, OroraTech, Kinemetrics and SeismicAI",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/03/24/3047930/28124/en/Natural-Disaster-Management-Market-Global-Outlook-to-2029-with-NEC-Hexagon-Nokia-Xylem-ESRI-Everbridge-SuperMap-Sadeem-Technology-Lumineye-Nanometrics-OroraTech-Kinemetrics-and-Sei.html",
+      "date": "2025-03-24T13:01:00Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.6938110749185669,
+        "details": {
+          "HIGH": 21.3,
+          "MEDIUM": 8.6,
+          "LOW": 0.8
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine",
+        "Energy"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Regulatory": {
+          "level": "MEDIUM",
+          "matches": 1
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 1
+        }
+      },
+      "preview": "Dublin, March 24, 2025 (GLOBE NEWSWIRE) -- The \"Natural Disaster Management Market by Solution (Seismic Warning &amp; Monitoring Systems, Flood Beacons, Lightning Detectors), Application (Volcano Det\u2026 [+10494 chars] Accessibility: Skip TopNav Natural Disaster Management Market Global Outlook to 2029..."
+    },
+    {
+      "title": "Intermap\u2019s Insurance Business Starts 2025 With Strong Growth",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/03/20/3046080/0/en/Intermap-s-Insurance-Business-Starts-2025-With-Strong-Growth.html",
+      "date": "2025-03-20T11:00:00Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.5970873786407767,
+        "details": {
+          "HIGH": 12.3,
+          "MEDIUM": 5.0,
+          "LOW": 3.3
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine",
+        "Energy"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 5
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 5
+        },
+        "Regulatory": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Reputational": {
+          "level": "HIGH",
+          "matches": 3
+        }
+      },
+      "preview": "Year-to-date insurance awards surpass $1.1 million Two new strategic partnerships with major insurance customers DENVER, March 20, 2025 (GLOBE NEWSWIRE) -- Intermap Technologies (TSX: IMP; OTCQB: I\u2026 [+7383 chars] Accessibility: Skip TopNav Intermap\u2019s Insurance Business Starts 2025 With Strong Growth..."
+    },
+    {
+      "title": "Geospatial Solution Market Set for Significant Growth USD 2,061.3 Billion by 2035 with Expanding Applications Across Key Industries | FMI Reports",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/03/24/3047561/0/en/Geospatial-Solution-Market-Set-for-Significant-Growth-USD-2-061-3-Billion-by-2035-with-Expanding-Applications-Across-Key-Industries-FMI-Reports.html",
+      "date": "2025-03-24T07:30:00Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.4816053511705686,
+        "details": {
+          "HIGH": 14.4,
+          "MEDIUM": 11.2,
+          "LOW": 4.3
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Agriculture",
+        "Marine",
+        "Energy",
+        "Health",
+        "Business"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 5
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 5
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 2
+        }
+      },
+      "preview": "NEWARK, Del:, March 24, 2025 (GLOBE NEWSWIRE) -- The global geospatial solution market is poised for significant expansion, with sales expected to reach approximately USD 545.7 billion in 2025 and pr\u2026 [+14320 chars] Accessibility: Skip TopNav Geospatial Solution Market Set for Significant Growth USD..."
+    },
+    {
+      "title": "Europe Aerial Imaging Market to Reach USD 20.93 Billion by 2033 | Profiles of 30+ Key Players Including Airbus Defence and Space, Hexagon, Fugro NV, and Nearmap Ltd. \u2013 Astute Analytica",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/03/24/3047840/0/en/Europe-Aerial-Imaging-Market-to-Reach-USD-20-93-Billion-by-2033-Profiles-of-30-Key-Players-Including-Airbus-Defence-and-Space-Hexagon-Fugro-NV-and-Nearmap-Ltd-Astute-Analytica.html",
+      "date": "2025-03-24T12:30:00Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.5111111111111112,
+        "details": {
+          "HIGH": 13.8,
+          "MEDIUM": 11.6,
+          "LOW": 1.6
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Agriculture",
+        "Marine",
+        "Energy",
+        "Health",
+        "Business"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 6
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 2
+        }
+      },
+      "preview": "New Delhi, March 24, 2025 (GLOBE NEWSWIRE) -- According to new research published by Astute Analytica, the Europe aerial imaging market was valued at US$ 5.78 billion in 2024 and is expected to reach\u2026 [+17288 chars] Accessibility: Skip TopNav Europe Aerial Imaging Market to Reach USD 20.93 Billion b..."
+    },
+    {
+      "title": "Lest We Forget the Horrors: An Unending Catalog of Trump\u2019s Cruelties, Collusions, Corruptions, and Crimes",
+      "source": "Mcsweeneys.net",
+      "url": "https://www.mcsweeneys.net/articles/lest-we-forget-the-horrors-an-unending-catalog-of-trumps-cruelties-collusions-corruptions-and-crimes",
+      "date": "2025-03-24T17:30:00Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.6045801526717558,
+        "details": {
+          "HIGH": 39.6,
+          "MEDIUM": 16.8,
+          "LOW": 9.1
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine",
+        "Energy",
+        "Health",
+        "Business"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 7
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 5
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 6
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 1
+        }
+      },
+      "preview": "Early in President Trump\u2019s first term, McSweeney\u2019s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump\u2019s cruelties,\u2026 [+86213 chars] March 24, 2025 Lest We Forget the Horrors: An Unending Catalog of Trump\u2019s Cruelties,..."
+    },
+    {
+      "title": "New fire maps put nearly 4 million Californians in hazardous zones. What does that mean for them?",
+      "source": "KPBS",
+      "url": "https://www.kpbs.org/news/environment/2025/03/25/new-fire-maps-put-nearly-4-million-californians-in-hazardous-zones-what-does-that-mean-for-them",
+      "date": "2025-03-25T16:11:31Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.5051020408163265,
+        "details": {
+          "HIGH": 9.9,
+          "MEDIUM": 5.6,
+          "LOW": 4.1
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 1
+        }
+      },
+      "preview": "New bursts of yellow dot the hills of Mendocino County. Smears of burnt orange now span the aqueduct near Bakersfield. A fresh splash of crimson juts east of Chico like a fresh wound. With the rel\u2026 [+10040 chars] Environment New fire maps put nearly 4 million Californians in hazardous zones. What do..."
+    },
+    {
+      "title": "Hoops Preview: Texas A&M, 2025 NCAA Round of 32",
+      "source": "mgoblog.com",
+      "url": "https://mgoblog.com/content/hoops-preview-texas-am-2025-ncaa-round-32",
+      "date": "2025-03-22T12:52:15Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.6623376623376623,
+        "details": {
+          "HIGH": 15.3,
+          "MEDIUM": 2.0,
+          "LOW": 5.8
+        }
+      },
+      "affected_sectors": [
+        "Marine",
+        "Energy"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Operational": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Regulatory": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 2
+        }
+      },
+      "preview": "THE ESSENTIALS WHAT #5 Michigan (26-9, 14-6 B10) vs#4 Texas A&amp;M (23-10, 11-7 SEC) WHERE Ball Arena, Denver, CO <th\u2026 [+21723 chars] 2024-25 texas a&m basketball previews THE ESSENTIALSWHAT#5 Michigan (26-9, 14-6 B10) vs#4 Texas A&M (23-10, 11-7 SEC)WHEREBall Arena, Denver, COWHENSat, March 22 at ..."
+    },
+    {
+      "title": "Pop_Exp 0.1.8",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/Pop_Exp/",
+      "date": "2025-03-20T17:09:59Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 1.0,
+        "details": {
+          "HIGH": 2.4000000000000004,
+          "MEDIUM": 0.0,
+          "LOW": 0.0
+        }
+      },
+      "affected_sectors": [
+        "Energy"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Operational": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Regulatory": {
+          "level": "MEDIUM",
+          "matches": 1
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 1
+        }
+      },
+      "preview": "Pop_Exp is an open-source Python package designed to help environmental epidemiologists reproducibly assess population-level exposure to environmental hazards based on residential proximity. Function\u2026 [+19459 chars] Pop_Exp 0.1.9 pip install Pop_Exp Copy PIP instructions Latest version Released: Mar..."
+    },
+    {
+      "title": "Spatial analysis of unimproved drinking water source in East Africa: Using Demographic and Health Survey (DHS) data from 2012\u20132023",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318189",
+      "date": "2025-03-20T14:00:00Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.5787139689578714,
+        "details": {
+          "HIGH": 26.1,
+          "MEDIUM": 11.6,
+          "LOW": 7.4
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine",
+        "Energy",
+        "Health"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 5
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 5
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 1
+        }
+      },
+      "preview": "Abstract Background According to the WHO/UNICEF Joint Monitoring Programme, unimproved drinking water sources include unprotected wells and springs, surface water (e.g., rivers, lakes), vendor-prov\u2026 [+41010 chars] Article Authors Metrics Comments Media Coverage Peer Review Reader Comments Figures Fi..."
+    },
+    {
+      "title": "Dave Vellante\u2019s Breaking Analysis: The complete collection",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2025/03/21/dave-vellantes-breaking-analysis-complete-collection/",
+      "date": "2025-03-21T10:33:12Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.5793413173652695,
+        "details": {
+          "HIGH": 38.7,
+          "MEDIUM": 18.2,
+          "LOW": 9.9
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Agriculture",
+        "Marine",
+        "Energy",
+        "Health",
+        "Business"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 9
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 6
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 6
+        },
+        "Reputational": {
+          "level": "HIGH",
+          "matches": 7
+        }
+      },
+      "preview": "Breaking Analysis is a weekly editorial program combining knowledge from SiliconANGLEs theCUBE with spending data from Enterprise Technology Research. Branded as theCUBE Insights, Powered by ETR, th\u2026 [+182839 chars] UPDATED 06:33 EDT / MARCH 21 2025 CLOUD Dave Vellante\u2019s Breaking Analysis: The compl..."
+    },
+    {
+      "title": "\u2018The Assessment\u2019 Stars Elizabeth Olsen and Alicia Vikander on How the Sci-Fi Parenthood Film Makes You \u2018Reflect on Your Own Innate Rights\u2019",
+      "source": "Variety",
+      "url": "https://variety.com/2025/film/features/the-assessment-elizabeth-olsen-alicia-vikander-nature-1236346081/",
+      "date": "2025-03-25T23:05:26Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.7261146496815287,
+        "details": {
+          "HIGH": 11.4,
+          "MEDIUM": 0.0,
+          "LOW": 4.3
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "MEDIUM",
+          "matches": 1
+        },
+        "Operational": {
+          "level": "MEDIUM",
+          "matches": 1
+        },
+        "Regulatory": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Reputational": {
+          "level": "LOW",
+          "matches": 0
+        }
+      },
+      "preview": "While filming the dystopian indie drama \u201cThe Assessment,\u201d stars Elizabeth Olsen and Alicia Vikander found nature to be a crucial touchpoint for understanding its strange, mesmerizing sci-fi world. \u2026 [+10367 chars] Mar 25, 2025 4:05pm PT \u2018The Assessment\u2019 Stars Elizabeth Olsen and Alicia Vikander on H..."
+    },
+    {
+      "title": "World Meteorological Day Closing the Early Warning Gap to Save Lives",
+      "source": "Inter Press Service",
+      "url": "https://www.ipsnews.net/2025/03/world-meteorological-day-closing-the-early-warning-gap-to-save-lives/",
+      "date": "2025-03-24T04:31:32Z",
+      "risk_assessment": {
+        "level": "HIGH",
+        "score": 3,
+        "confidence": 0.7833333333333334,
+        "details": {
+          "HIGH": 28.200000000000003,
+          "MEDIUM": 7.0,
+          "LOW": 0.8
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Operational": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Regulatory": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Reputational": {
+          "level": "LOW",
+          "matches": 0
+        }
+      },
+      "preview": "HeadlinesClimate Action On World Meteorological Day 2025, the World Meteorological Organization is highlighting persistent gaps in early warning systems as extreme weather events intensify, urging g\u2026 [+5285 chars] LanguagesESPA\u00d1OL FRAN\u00c7AIS DEUTSCH ITALIANO JAPANESE NEDERLANDS PORTUGU\u00caS SUOMI SVENSKA..."
+    }
+  ],
+  "MEDIUM": [
+    {
+      "title": "A Home Insurance Storm Is Brewing in This State",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/home-insurance-storm-brewing-this-state-2048422",
+      "date": "2025-03-23T08:00:03Z",
+      "risk_assessment": {
+        "level": "MEDIUM",
+        "score": 2,
+        "confidence": 0.7142857142857143,
+        "details": {
+          "HIGH": 0.0,
+          "MEDIUM": 2.0,
+          "LOW": 0.8
+        }
+      },
+      "affected_sectors": [
+        "Marine"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Operational": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Regulatory": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Reputational": {
+          "level": "LOW",
+          "matches": 0
+        }
+      },
+      "preview": "A potential property insurance crisis looms over New Mexico, a wildfire-prone state where more than one in five homeowners (23.3 percent) don't have insurance coverage\u2014according to a recent report by\u2026 [+6560 chars]..."
+    },
+    {
+      "title": "Climate Realpolitik: Review of \u201cWhat\u2019s Left\u201d by Malcolm Harris",
+      "source": "CounterPunch",
+      "url": "https://www.counterpunch.org/2025/03/26/climate-realpolitik-review-of-whats-left-by-malcolm-harris/",
+      "date": "2025-03-26T05:49:23Z",
+      "risk_assessment": {
+        "level": "MEDIUM",
+        "score": 2,
+        "confidence": 0.45161290322580644,
+        "details": {
+          "HIGH": 6.9,
+          "MEDIUM": 7.0,
+          "LOW": 1.6
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine",
+        "Energy"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Operational": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 2
+        }
+      },
+      "preview": "Image by Getty and Unsplash+. Malcolm Harris latest book, Whats Left, presents a stark assessment of the climate crisis and a serious consideration of what political options have the potential to me\u2026 [+5665 chars] Keep up. Get CounterPunch in your inbox. Home $0.00 March 26, 2025 Climate Realpolitik..."
+    },
+    {
+      "title": "The Assessment",
+      "source": "Rogerebert.com",
+      "url": "https://www.rogerebert.com/reviews/the-assessment-film-review-2025",
+      "date": "2025-03-21T13:53:16Z",
+      "risk_assessment": {
+        "level": "MEDIUM",
+        "score": 2,
+        "confidence": 0.6666666666666666,
+        "details": {
+          "HIGH": 0.0,
+          "MEDIUM": 3.6,
+          "LOW": 1.8
+        }
+      },
+      "affected_sectors": [
+        "Marine"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Operational": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Regulatory": {
+          "level": "MEDIUM",
+          "matches": 1
+        },
+        "Reputational": {
+          "level": "LOW",
+          "matches": 0
+        }
+      },
+      "preview": "Deciding whether youre ready to become a parent is hard enough. Having someone decide for you is even harder, especially when that person is a representative of the state who makes you jump through a\u2026 [+3814 chars] Deciding whether you\u2019re ready to become a parent is hard enough. Having someone decid..."
+    },
+    {
+      "title": "Opposition members accuse govt of attempting to centralise power through bills, amendments",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/opposition-members-accuse-govt-of-attempting-to-centralise-power-through-bills-amendments/articleshow/119485671.cms",
+      "date": "2025-03-25T14:34:29Z",
+      "risk_assessment": {
+        "level": "MEDIUM",
+        "score": 2,
+        "confidence": 0.6756756756756757,
+        "details": {
+          "HIGH": 2.4000000000000004,
+          "MEDIUM": 5.0,
+          "LOW": 0.0
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine",
+        "Health"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Regulatory": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Reputational": {
+          "level": "LOW",
+          "matches": 0
+        }
+      },
+      "preview": "New Delhi: Opposition members in the Rajya Sabha on Tuesday accused the NDA government of attempting to give more powers to the Centre and weakening the states through various bills and amendments. P\u2026 [+3338 chars] AgenciesRepresentative ImageNew Delhi: Opposition members in the Rajya Sabha on Tuesd..."
+    },
+    {
+      "title": "Fine scale mapping of water sources in low-income settings: A comparative study in Misungwi, Tanzania",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319603",
+      "date": "2025-03-21T14:00:00Z",
+      "risk_assessment": {
+        "level": "MEDIUM",
+        "score": 2,
+        "confidence": 0.5714285714285714,
+        "details": {
+          "HIGH": 6.9,
+          "MEDIUM": 13.6,
+          "LOW": 3.3
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Agriculture",
+        "Marine",
+        "Energy",
+        "Health"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Regulatory": {
+          "level": "HIGH",
+          "matches": 4
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 1
+        }
+      },
+      "preview": "Abstract Access to safe water, sanitation, and hygiene is a basic human need for health and well-being. Yet, 2.2 billion people globally in 2022 did not have access to safely managed drinking water.\u2026 [+39680 chars] Article Authors Metrics Comments Media Coverage Reader Comments Figures Figures Abstr..."
+    },
+    {
+      "title": "Accessing information in moments of crisis - Interview with Dr. Raquel Dezid\u00e9rio Souto about the Rio Grande do Sul (Brazil)\u2019s disaster occurred in April and May, 2024",
+      "source": "Openstreetmap.org",
+      "url": "https://www.openstreetmap.org/user/Raquel%20Dezid%C3%A9rio%20Souto/diary/406388",
+      "date": "2025-03-20T18:13:47Z",
+      "risk_assessment": {
+        "level": "MEDIUM",
+        "score": 2,
+        "confidence": 0.6190476190476191,
+        "details": {
+          "HIGH": 2.4000000000000004,
+          "MEDIUM": 5.2,
+          "LOW": 0.8
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine",
+        "Energy"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "HIGH",
+          "matches": 3
+        },
+        "Operational": {
+          "level": "HIGH",
+          "matches": 5
+        },
+        "Regulatory": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Reputational": {
+          "level": "MEDIUM",
+          "matches": 1
+        }
+      },
+      "preview": "Read in Portuguese An interview with a university in Italy gives details of the collaborative mapping carried out in response to the Rio Grande do Sul disaster This interview is registered on Zenod\u2026 [+18790 chars] Accessing information in moments of crisis - Interview with Dr. Raquel Dezid\u00e9rio Souto..."
+    }
+  ],
+  "UNDEFINED": [
+    {
+      "title": "Best States to Go Off-Grid",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/365671/best-states-to-go-off-grid.html",
+      "date": "2025-03-23T19:30:00Z",
+      "risk_assessment": {
+        "level": "UNDEFINED",
+        "score": 0,
+        "confidence": 0,
+        "details": {
+          "HIGH": 0.0,
+          "MEDIUM": 0.0,
+          "LOW": 0.0
+        }
+      },
+      "affected_sectors": [
+        "Property",
+        "Marine"
+      ],
+      "impact_analysis": {
+        "Financial": {
+          "level": "LOW",
+          "matches": 0
+        },
+        "Operational": {
+          "level": "MEDIUM",
+          "matches": 2
+        },
+        "Regulatory": {
+          "level": "MEDIUM",
+          "matches": 1
+        },
+        "Reputational": {
+          "level": "LOW",
+          "matches": 0
+        }
+      },
+      "preview": "If you're ready for a more self-sufficient lifestyle that allows you to independently live off the land, Home Gnome has your back. The home-service site looked at all 50 US states to see which ones w\u2026 [+1097 chars] US / off the grid Best States to Go Off-Grid Iowa is especially ready for those seeki..."
+    }
+  ]
+}
