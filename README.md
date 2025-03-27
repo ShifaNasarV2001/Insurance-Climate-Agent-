@@ -26,7 +26,7 @@ Ensure you have Python 3.8+ installed.
 
 Clone the Repository
 
- git clone https://github.com/your-username/your-repository.git
+ git clone https://github.com/ShifaNasarV2001/Insurance-Climate-Agent-.git
  cd your-repository
 
 Install Dependencies
