@@ -51,18 +51,3 @@ Console: Displays categorized risk assessments with affected sectors.
 
 JSON File: Saves the structured output to insurance_climate_analysis.json.
 
-Project Structure
-
-├── insurance_climate_agent.py  # Main script
-├── requirements.txt            # Dependencies
-├── .env                        # API key storage
-├── README.md                   # Project documentation
-
-Future Enhancements
-
-Machine Learning Integration for advanced risk prediction.
-
-Interactive Streamlit Dashboard for visualization.
-
-Expanded Data Sources beyond NewsAPI.
-
