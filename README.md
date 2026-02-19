@@ -1,53 +1,139 @@
-# Insurance-Climate-Agent-
+# 🌍 Insurance Climate Risk Analysis Agent
 
-Insurance Climate Risk Analysis Agent
+## 📌 Overview
 
-#Overview
+The **Insurance Climate Risk Analysis Agent** is a Gen-AI powered system designed to fetch, analyze, and assess climate-related risks impacting the insurance industry.
 
-This project is a Gen-AI powered agent designed to fetch, analyze, and assess climate-related risks impacting the insurance industry. The agent scrapes real-time news, assesses risk levels, identifies affected insurance sectors, and provides insights into financial, operational, and regulatory impacts.
+This agent scrapes real-time news, evaluates climate risks, identifies affected insurance sectors, and provides insights into financial, operational, regulatory, and reputational impacts.
 
-Features
+It helps insurers, analysts, and researchers monitor emerging climate threats and understand their potential industry impact.
 
-Web Scraping: Extracts climate and insurance-related news from multiple sources.
+---
 
-Risk Assessment: Evaluates articles using natural language processing (NLP) to classify risk levels (HIGH, MEDIUM, LOW).
+## 🚀 Features
 
-Sector Identification: Determines which insurance sectors (e.g., Property, Agriculture, Marine) are affected.
+### 🔎 Web Scraping
 
-Impact Analysis: Analyzes financial, operational, regulatory, and reputational impacts.
+* Extracts climate and insurance-related news from multiple sources
+* Fetches real-time articles using News APIs
 
-Data Storage: Saves results in a structured JSON file.
+### ⚠️ Risk Assessment
 
-Installation
+* Uses NLP and Gen-AI to classify risk levels:
 
-Prerequisites
+  * **HIGH**
+  * **MEDIUM**
+  * **LOW**
 
-Ensure you have Python 3.8+ installed.
+### 🏢 Sector Identification
 
-Clone the Repository
+Identifies affected insurance sectors such as:
 
- git clone https://github.com/ShifaNasarV2001/Insurance-Climate-Agent-.git
- cd your-repository
+* Property Insurance
+* Agriculture Insurance
+* Marine Insurance
+* Life & Health Insurance
 
-Install Dependencies
+### 📊 Impact Analysis
 
+Analyzes different impact dimensions:
+
+* Financial impact
+* Operational impact
+* Regulatory impact
+* Reputational impact
+
+### 💾 Data Storage
+
+* Saves analyzed results in structured **JSON format**
+* Enables further analytics and reporting
+
+---
+
+## 🛠 Installation
+
+### Prerequisites
+
+Ensure you have installed:
+
+* Python **3.8+**
+* pip package manager
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/ShifaNasarV2001/Insurance-Climate-Agent-.git
+cd Insurance-Climate-Agent-
+```
+
+### Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-Set Up API Keys
+### Set Up API Keys
 
-Create a .env file in the project root and add your News API key:
+Create a `.env` file in the project root and add:
 
+```env
 NEWSAPI_KEY=your_api_key_here
+```
 
-Usage
+---
 
-Run the script to fetch and analyze climate risk news:
+## ▶️ Usage
 
+Run the agent:
+
+```bash
 python insurance_climate_agent.py
+```
 
-Output
+---
 
-Console: Displays categorized risk assessments with affected sectors.
+## 📤 Output
 
-JSON File: Saves the structured output to insurance_climate_analysis.json.
+### Console Output
+
+* Displays categorized climate risk assessments
+* Shows affected insurance sectors and impact levels
+
+### JSON Output
+
+* Saves structured analysis to:
+
+```
+insurance_climate_analysis.json
+```
+
+Includes:
+
+* Article title
+* Risk level
+* Affected sector
+* Impact analysis
+* Summary insights
+
+---
+
+## 📈 Use Cases
+
+* Climate risk monitoring for insurers
+* Insurance market research
+* Regulatory and compliance tracking
+* Financial risk assessment
+* ESG and sustainability analysis
+
+---
+
+## 🔮 Future Enhancements
+
+* Dashboard visualization (Streamlit/React)
+* Vector database for semantic search
+* Historical risk trend analysis
+* Multi-agent workflow integration
+* Real-time alerts for high-risk news
+
+---
 
